@@ -50,7 +50,7 @@ form {
 }
 
 h2 {
-    padding: 48px 0px 8px;
+    padding: 48px 0px 0px;
     color: #36383c;
     font-size: 36px;
 }
@@ -99,6 +99,6 @@ button {
     color: #ffff;
     font-size: 36px;
     font-weight: 600;
-    text-shadow: -1px 0px 3px rgb(23 16 25 / 55%);
+    text-shadow: -1px 0px 3px rgb(23, 16, 25, 0.55);
     cursor: pointer;
 }
